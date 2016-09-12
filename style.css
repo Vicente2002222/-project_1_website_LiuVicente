@@ -1,4 +1,10 @@
 h1 {
   text-align: center;
-  background-color: red;
+  background-color: blue;
   }
+body{
+  background-image:url("")
+}
+p{
+  color:green
+}
