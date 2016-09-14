@@ -1,9 +1,11 @@
 h1 {
   text-align: center;
-  background-color: red;
+  background-color: red
   }
 body{
-  background-image:url("")
+  background-image:url("");
+  background-repeat: no-repeat;
+  background-size: 700px 1000px;
 }
 p{
   color:green
