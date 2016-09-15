@@ -3,12 +3,12 @@ h1 {
   background-color: red
   }
 body{
-  background-image:url("");
+  background-image:url("http://www.pedroquintanilha.com.br/wp-content/uploads/2014/05/black-chalkboard.jpg");
   background-repeat: no-repeat;
-  background-size: 700px 1000px;
+  background-size: 1200px 1250px;
 }
 p{
-  color:green
+  color: orange;
 }
 h2 {
   text-align: center;
